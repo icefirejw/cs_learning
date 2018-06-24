@@ -1,0 +1,5 @@
+bin\Debug\HashTableLearning.exe
+bin\Debug\HashTableLearning.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HashTableLearning.exe
+obj\Debug\HashTableLearning.pdb
